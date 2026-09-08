@@ -14,12 +14,11 @@ expanding into backend development with Python.
 
 ## What I'm working on
 
-**[nombre de tu app]** — Cross-platform study app with spaced repetition.
+**RankUp** — Cross-platform study app with spaced repetition.
 React Native (Expo) · TypeScript · Supabase. Currently in beta.
 
 **Kezza** — Restaurant point-of-sale system: order management, table
-control and staff tracking. C# / .NET, being ported to web with
-React and Supabase.
+control and staff tracking. C# / .NET
 
 **api-control-escolar** — REST API for school administration with
 token authentication and user/admin role permissions.
