@@ -8,11 +8,8 @@ backend development with Python.
 ## Tech Stack
 
 **Languages** · JavaScript · TypeScript · Python · C# · HTML5 · CSS3
-
 **Frontend** · React · React Native (Expo) · Bootstrap 5 · Tailwind CSS
-
 **Backend & Data** · REST APIs · Supabase · .NET
-
 **Tools** · Git · GitHub
 
 ## What I'm working on
@@ -26,4 +23,11 @@ with React and Supabase.
 
 ## Experience
 
-**Neoplásticos** — Sole developer on the
+**Neoplásticos** — Sole developer on the company's corporate website
+([neoplasticos.com](https://www.neoplasticos.com)). Rebuilt and extended an
+existing Bootstrap 5 site, added a bilingual ES/EN switcher, a PHP quote
+request form and Schema.org structured data. Oct 2025 – Mar 2026.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/marco-andrade-tirado-78121a3b1/) · at.marcodp@gmail.com
