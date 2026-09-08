@@ -8,8 +8,11 @@ backend development with Python.
 ## Tech Stack
 
 **Languages** · JavaScript · TypeScript · Python · C# · HTML5 · CSS3
+
 **Frontend** · React · React Native (Expo) · Bootstrap 5 · Tailwind CSS
+
 **Backend & Data** · REST APIs · Supabase · .NET
+
 **Tools** · Git · GitHub
 
 ## What I'm working on
