@@ -1,15 +1,15 @@
 # Hi, I'm Marco
 
 Software developer based in Aguascalientes, México.
-Full stack web development with JavaScript/TypeScript and React —
-currently building a cross-platform mobile app with Expo and
-expanding into backend development with Python.
+Web development with JavaScript/TypeScript and React — currently
+building a cross-platform mobile app with Expo and expanding into
+backend development with Python.
 
 ## Tech Stack
 
 **Languages** · JavaScript · TypeScript · Python · C# · HTML5 · CSS3
-**Frontend** · React · React Native (Expo) · Tailwind CSS
-**Backend & Data** · REST APIs · Supabase (PostgreSQL) · .NET
+**Frontend** · React · React Native (Expo) · Bootstrap 5 · Tailwind CSS
+**Backend & Data** · REST APIs · Supabase · .NET
 **Tools** · Git · GitHub
 
 ## What I'm working on
@@ -18,11 +18,9 @@ expanding into backend development with Python.
 React Native (Expo) · TypeScript · Supabase. Currently in beta.
 
 **Kezza** — Restaurant point-of-sale system: order management, table
-control and staff tracking. C# / .NET
+control and staff tracking. Built in C# / .NET, being ported to web
+with React and Supabase.
 
-**api-control-escolar** — REST API for school administration with
-token authentication and user/admin role permissions.
+## Experience
 
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/marco-andrade-tirado-78121a3b1/) · at.marcodp@gmail.com
+**Neoplásticos** — Sole developer on the
